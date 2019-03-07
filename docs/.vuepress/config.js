@@ -35,7 +35,8 @@ module.exports = {
               collapsable: false,
               children: [
                 '',
-                'getting-started'
+                'getting-started',
+                'directory-structure'
               ]
             }
           ]
