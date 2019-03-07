@@ -36,7 +36,8 @@ module.exports = {
               children: [
                 '',
                 'getting-started',
-                'directory-structure'
+                'directory-structure',
+                'markdown'
               ]
             }
           ]
