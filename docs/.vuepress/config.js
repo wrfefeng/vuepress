@@ -11,7 +11,6 @@ module.exports = {
   ],
   // theme: '@vuepress/vue',
   themeConfig: {
-    repo: 'vuejs/vuepress',
     editLinks: false,
     locales: {
       '/': {
@@ -23,6 +22,10 @@ module.exports = {
           {
             text: '指南',
             link: '/zh/guide/'
+          },
+          {
+            text: 'GitHub',
+            link: 'https://github.com/wrfefeng/vuepress.git'
           }
         ],
         sidebar: {
